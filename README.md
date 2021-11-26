@@ -9,3 +9,4 @@ Projeto criado no bootcamp da Digital Innovation One, onde foi criado uma interf
 * ReactJS
 * Typescript
 
+[Link do projeto no Github Pages](https://fredcsouza.github.io/github-api-interface/)
